@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1120px;
+  text-emphasis: none;
+  padding: auto;
+}
+
+.container .image-container img {
+  width: 649px;
+  height: 512px;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+
+.text-content button {
+  width: 200px;
+  height: 44px;
+  border-radius: 5px;
+  padding: 10px, 18px, 10px, 18px;
+  gap: 10px;
+  background-color: black;
+  color: white;
+}
+
+
+
+.text-content h1 {
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 14px;
+  
+}
